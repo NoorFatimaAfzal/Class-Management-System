@@ -5,7 +5,7 @@ class DB:
         self.con = connector.connect(  
                 host='localhost',
                 user='root',
-                password='noorfatima#01', 
+                password='', 
                 database='college',
                 port=3306
             )
